@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20%;
+}
+
+
+.App-title {
+  font-size: 30px;
+}
+
+
+.clock-days,.clock-hours,.clock-minutes
+{
+  display: inline;
+  margin:10px;
+}
+
+.deadline-input {
+  font-size: 25px;
+  margin: 5px;
+}
+
+.title{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 20%;
+}
+.timer-content {
+
+  display: inline;
+  margin:10px;
+}
+
+.hours,.minutes,.seconds,.semicolon{
+  font-size: 40px;
+  margin:2px;
+}
+
+.timerButton{
+  margin:10px;
+}
